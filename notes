@@ -1,0 +1,4 @@
+30=>Apps:
+The whole Django project may have several subset of Apps.
+For example, the portfolio project will have a subset jobs and blog.
+To create an app within a project, cd into the project and
